@@ -25,7 +25,7 @@ warnings.filterwarnings('ignore')
 # In[2]:
 
 
-data = pd.read_csv("C:\\Users\\Faith\\Downloads\\Loan_Data.csv")
+data = pd.read_csv("https://docs.google.com/spreadsheets/d/1-XhdlD5upBEtI9FlPDm4i9Vy1iYu-4KOY-Y09S0NV5s/edit?usp=drive_link.csv")
 data.head(5)
 
 
